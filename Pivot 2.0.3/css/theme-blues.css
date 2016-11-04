@@ -843,12 +843,12 @@ header .btn:last-child {
   height: 100%;
   top: 0px;
   content: '';
-  opacity: 0.9;
+  opacity: .90;
   z-index: 2;
 
   /*** CUSTOM EDIT ***/
 
-  background-color: #F3AC00/* FFE51F
+  background-color: #FBD334/*#358DF2/*#FFF8C4/*#FFEA4A/*#F3AC00/* FFE51F
 
   #FFC947; style="background-color: #F3AC00; opacity: 0.6; z-index: inherit;"
   */
@@ -1065,7 +1065,7 @@ header.centered-text .btn:last-child {
   margin-right: 0px;
 }
 /****
-EDIT: Added overlay to program page using color: 1a8bb3
+CUSTOM EDIT: Added overlay to program page using color: 1a8bb3
 ****/
 header.fullscreen-element .overlay:before,
 .image-divider.overlay:before {
@@ -1076,7 +1076,7 @@ header.fullscreen-element .overlay:before,
   content: '';
   opacity: 0.9;
   z-index: 2;
-  background-color: #1a8bb3;"
+  background-color: #358DF2/*#FBD334/*#51588E;/*#313975/*#1a8bb3;*/
 }
 .bottom-band {
   width: 100%;
