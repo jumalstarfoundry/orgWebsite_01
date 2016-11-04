@@ -845,7 +845,10 @@ header .btn:last-child {
   content: '';
   opacity: 0.9;
   z-index: 2;
-  background-color: #F3AC00/*
+
+  /*** CUSTOM EDIT ***/
+
+  background-color: #F3AC00/* FFE51F
 
   #FFC947; style="background-color: #F3AC00; opacity: 0.6; z-index: inherit;"
   */
@@ -4405,4 +4408,9 @@ footer.short-2 .contact-action:hover {
 }
 .no-loader .loader {
   display: none !important;
+}
+
+/*** CUSTOM EDIT***/
+#tailoredMaterialIconDiv {
+
 }
